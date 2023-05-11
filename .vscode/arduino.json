@@ -1,0 +1,5 @@
+{
+    "port": "COM3",
+    "board": "arduino:avr:uno",
+    "sketch": "DCmotor_basic\\DCmotor_basic.ino"
+}
